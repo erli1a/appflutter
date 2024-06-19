@@ -1,0 +1,49 @@
+name: proyecto
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+version: 1.0.0+1
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  animated_text_kit: ^4.2.1
+  cupertino_icons: ^1.0.6
+  font_awesome_flutter: ^10.7.0
+  firebase_core: ^3.1.0
+  cloud_firestore: ^5.0.1
+  firebase_auth: ^5.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/shoes.jpg
+    - assets/dress.jpg
+    - assets/blouse.jpg
+    - assets/perfil.jpg
+    - assets/chica.jpg
+    - assets/blazer.jpg
+    - assets/jeans.jpg
+    - assets/product_0.png
+    - assets/product_1.png
+    - assets/product_2.png
+    - assets/product_3.png
+    - assets/product_4.png
+    - assets/product_5.png
+    - assets/dress1.jpg
+    - assets/dress2.jpg
+    - assets/dress3.jpg
+    - assets/dress4.jpg
+    - assets/dress5.jpg
+    - assets/dress6.jpg
+    - assets/shoes1.jpg
+    - assets/shoes2.jpg
+    - assets/shoes3.jpg
+    - assets/shoes4.jpg
+    - assets/shoes5.jpg
+    - assets/shoes6.jpg
+
+    
+
